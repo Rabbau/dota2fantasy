@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Фэнтези-калькулятор Dota 2 — The International 2026</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Фэнтези-калькулятор <span>TI 2026</span></h1>
+    <p class="subtitle">Собери баннер — эмблема, разряд, свойство — и получи рейтинг игроков под него</p>
+    <p id="data-meta" class="data-meta"></p>
+  </header>
+
+  <main id="app">
+    <div class="toolbar">
+      <div class="seg" id="stage-toggle" role="group" aria-label="Этап">
+        <button data-stage="group" class="active">Групповой (3 слота)</button>
+        <button data-stage="playoff">Плей-офф (5 слотов)</button>
+      </div>
+      <div class="toolbar-actions">
+        <button id="btn-optimize" class="ghost" title="Подставить в каждый слот стат с наибольшим средним вкладом">Оптимальные статы</button>
+        <button id="btn-reset" class="ghost">Сбросить</button>
+      </div>
+    </div>
+
+    <nav id="role-tabs" class="tabs"></nav>
+    <section id="role-panel"></section>
+  </main>
+
+  <footer>
+    <p>
+      Данные: OpenDota (лига TI 2026), среднее за турнир. Правила и коэффициенты —
+      <code>data/formulas.json</code>. Обнови статистику: <code>python parser/fetch_stats.py</code>.
+    </p>
+    <p class="disclaimer">
+      Неофициальный инструмент. «Смотрители», «лотосы» и «безумруды» OpenDota не отдаёт —
+      эти статы отключены. Итог — приближение: реальный фэнтези считает 2 лучшие карты лучшей серии.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

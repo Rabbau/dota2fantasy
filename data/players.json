@@ -1,0 +1,636 @@
+[
+  {
+    "nickname": "Nightfall",
+    "steam_id": 124801257,
+    "team": "Aurora Gaming",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "Aurora Gaming"
+  },
+  {
+    "nickname": "Mikoto",
+    "steam_id": 301750126,
+    "team": "Aurora Gaming",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Aurora Gaming"
+  },
+  {
+    "nickname": "Ws",
+    "steam_id": 126842529,
+    "team": "Aurora Gaming",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "Aurora Gaming"
+  },
+  {
+    "nickname": "Mira",
+    "steam_id": 256156323,
+    "team": "Aurora Gaming",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Aurora Gaming"
+  },
+  {
+    "nickname": "kaori",
+    "steam_id": 320219866,
+    "team": "Aurora Gaming",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "Aurora Gaming"
+  },
+  {
+    "nickname": "Kiritych~",
+    "steam_id": 172099728,
+    "team": "BoomBoys",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "BoomBoys"
+  },
+  {
+    "nickname": "gpk~",
+    "steam_id": 480412663,
+    "team": "BoomBoys",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "BoomBoys"
+  },
+  {
+    "nickname": "MieRo",
+    "steam_id": 165564598,
+    "team": "BoomBoys",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "BoomBoys"
+  },
+  {
+    "nickname": "Save-",
+    "steam_id": 317880638,
+    "team": "BoomBoys",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "BoomBoys"
+  },
+  {
+    "nickname": "Kataomi",
+    "steam_id": 196878136,
+    "team": "BoomBoys",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "BoomBoys"
+  },
+  {
+    "nickname": "Pure",
+    "steam_id": 331855530,
+    "team": "Iron Wing",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "1w"
+  },
+  {
+    "nickname": "bzm",
+    "steam_id": 93618577,
+    "team": "Iron Wing",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "1w"
+  },
+  {
+    "nickname": "33",
+    "steam_id": 86698277,
+    "team": "Iron Wing",
+    "position": 3,
+    "role": "core"
+  },
+  {
+    "nickname": "Ari",
+    "steam_id": 346412363,
+    "team": "Iron Wing",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "1w"
+  },
+  {
+    "nickname": "Whitemon",
+    "steam_id": 136829091,
+    "team": "Iron Wing",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "1w"
+  },
+  {
+    "nickname": "skiter",
+    "steam_id": 100058342,
+    "team": "Team Falcons",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "Team Falcons"
+  },
+  {
+    "nickname": "Malr1ne",
+    "steam_id": 898455820,
+    "team": "Team Falcons",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Team Falcons"
+  },
+  {
+    "nickname": "ATF",
+    "steam_id": 183719386,
+    "team": "Team Falcons",
+    "position": 3,
+    "role": "core"
+  },
+  {
+    "nickname": "Cr1t-",
+    "steam_id": 25907144,
+    "team": "Team Falcons",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Team Falcons"
+  },
+  {
+    "nickname": "Sneyking",
+    "steam_id": 10366616,
+    "team": "Team Falcons",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "Team Falcons"
+  },
+  {
+    "nickname": "m1CKe",
+    "steam_id": 152962063,
+    "team": "Team Liquid",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "Team Liquid"
+  },
+  {
+    "nickname": "Nisha",
+    "steam_id": 201358612,
+    "team": "Team Liquid",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Team Liquid"
+  },
+  {
+    "nickname": "Ace",
+    "steam_id": 97590558,
+    "team": "Team Liquid",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "Team Liquid"
+  },
+  {
+    "nickname": "Boxi",
+    "steam_id": 77490514,
+    "team": "Team Liquid",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Team Liquid"
+  },
+  {
+    "nickname": "tOfu",
+    "steam_id": 16497807,
+    "team": "Team Liquid",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "Team Liquid"
+  },
+  {
+    "nickname": "watson",
+    "steam_id": 171262902,
+    "team": "Team Yandex",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "Team Yandex"
+  },
+  {
+    "nickname": "CHIRA_JUNIOR",
+    "steam_id": 312436974,
+    "team": "Team Yandex",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Team Yandex"
+  },
+  {
+    "nickname": "DM",
+    "steam_id": 56351509,
+    "team": "Team Yandex",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "Team Yandex"
+  },
+  {
+    "nickname": "Saksa",
+    "steam_id": 103735745,
+    "team": "Team Yandex",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Team Yandex"
+  },
+  {
+    "nickname": "Malady",
+    "steam_id": 93817671,
+    "team": "Team Yandex",
+    "position": 5,
+    "role": "support"
+  },
+  {
+    "nickname": "Ame",
+    "steam_id": 898754153,
+    "team": "Xtreme Gaming",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "Xtreme Gaming"
+  },
+  {
+    "nickname": "NothingToSay",
+    "steam_id": 173978074,
+    "team": "Xtreme Gaming",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Xtreme Gaming"
+  },
+  {
+    "nickname": "Xxs",
+    "steam_id": 129958758,
+    "team": "Xtreme Gaming",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "Xtreme Gaming"
+  },
+  {
+    "nickname": "fy",
+    "steam_id": 101695162,
+    "team": "Xtreme Gaming",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Xtreme Gaming"
+  },
+  {
+    "nickname": "xNova",
+    "steam_id": 94296097,
+    "team": "Xtreme Gaming",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "Xtreme Gaming"
+  },
+  {
+    "nickname": "Yatoro",
+    "steam_id": 321580662,
+    "team": "Team Spirit",
+    "position": 1,
+    "role": "core"
+  },
+  {
+    "nickname": "Larl",
+    "steam_id": 106305042,
+    "team": "Team Spirit",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Team Spirit"
+  },
+  {
+    "nickname": "Collapse",
+    "steam_id": 302214028,
+    "team": "Team Spirit",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "Team Spirit"
+  },
+  {
+    "nickname": "not me",
+    "steam_id": 218231587,
+    "team": "Team Spirit",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Team Spirit"
+  },
+  {
+    "nickname": "rue",
+    "steam_id": 847565596,
+    "team": "Team Spirit",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "Team Spirit"
+  },
+  {
+    "nickname": "Satanic",
+    "steam_id": 1044002267,
+    "team": "TEAM VISION",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "TEAM VISION"
+  },
+  {
+    "nickname": "No[o]e-",
+    "steam_id": 106573901,
+    "team": "TEAM VISION",
+    "position": 2,
+    "role": "mid"
+  },
+  {
+    "nickname": "Noticed",
+    "steam_id": 195108598,
+    "team": "TEAM VISION",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "TEAM VISION"
+  },
+  {
+    "nickname": "9Class",
+    "steam_id": 164199202,
+    "team": "TEAM VISION",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "TEAM VISION"
+  },
+  {
+    "nickname": "Dukalis",
+    "steam_id": 73401082,
+    "team": "TEAM VISION",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "TEAM VISION"
+  },
+  {
+    "nickname": "SumaiL",
+    "steam_id": 111620041,
+    "team": "Nigma Galaxy",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "Nigma Galaxy "
+  },
+  {
+    "nickname": "lorenof",
+    "steam_id": 210053851,
+    "team": "Nigma Galaxy",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Nigma Galaxy "
+  },
+  {
+    "nickname": "Davai",
+    "steam_id": 138880576,
+    "team": "Nigma Galaxy",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "Nigma Galaxy "
+  },
+  {
+    "nickname": "OmaR",
+    "steam_id": 152168157,
+    "team": "Nigma Galaxy",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Nigma Galaxy "
+  },
+  {
+    "nickname": "GH",
+    "steam_id": 101356886,
+    "team": "Nigma Galaxy",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "Nigma Galaxy "
+  },
+  {
+    "nickname": "ssnovv1",
+    "steam_id": 320017600,
+    "team": "HULIGANI",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "L1GA TEAM"
+  },
+  {
+    "nickname": "Mirage`",
+    "steam_id": 140251702,
+    "team": "HULIGANI",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "L1GA TEAM"
+  },
+  {
+    "nickname": "Corrupted",
+    "steam_id": 92487440,
+    "team": "HULIGANI",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "L1GA TEAM"
+  },
+  {
+    "nickname": "sayuw",
+    "steam_id": 145065875,
+    "team": "HULIGANI",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "L1GA TEAM"
+  },
+  {
+    "nickname": "RESPECT",
+    "steam_id": 123787715,
+    "team": "HULIGANI",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "L1GA TEAM"
+  },
+  {
+    "nickname": "YSR-04E",
+    "steam_id": 170896543,
+    "team": "Team Resilience",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "Team Resilience"
+  },
+  {
+    "nickname": "Echozz",
+    "steam_id": 315272623,
+    "team": "Team Resilience",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Team Resilience"
+  },
+  {
+    "nickname": "niu",
+    "steam_id": 145957968,
+    "team": "Team Resilience",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "Team Resilience"
+  },
+  {
+    "nickname": "planet",
+    "steam_id": 150961567,
+    "team": "Team Resilience",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Team Resilience"
+  },
+  {
+    "nickname": "zzq",
+    "steam_id": 249835593,
+    "team": "Team Resilience",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "Team Resilience"
+  },
+  {
+    "nickname": "shiro",
+    "steam_id": 320252024,
+    "team": "Vici Gaming",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "Vici Gaming"
+  },
+  {
+    "nickname": "Xm",
+    "steam_id": 137129583,
+    "team": "Vici Gaming",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "Vici Gaming"
+  },
+  {
+    "nickname": "Bach",
+    "steam_id": 118134220,
+    "team": "Vici Gaming",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "Vici Gaming"
+  },
+  {
+    "nickname": "XinQ",
+    "steam_id": 157475523,
+    "team": "Vici Gaming",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "Vici Gaming"
+  },
+  {
+    "nickname": "y`",
+    "steam_id": 111114687,
+    "team": "Vici Gaming",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "Vici Gaming"
+  },
+  {
+    "nickname": "Natsumi",
+    "steam_id": 355168766,
+    "team": "OG",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "OG"
+  },
+  {
+    "nickname": "Yopaj-",
+    "steam_id": 324277900,
+    "team": "OG",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "OG"
+  },
+  {
+    "nickname": "Raven",
+    "steam_id": 132309493,
+    "team": "OG",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "OG"
+  },
+  {
+    "nickname": "TIMS",
+    "steam_id": 155494381,
+    "team": "OG",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "OG"
+  },
+  {
+    "nickname": "skem",
+    "steam_id": 100594231,
+    "team": "OG",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "OG"
+  },
+  {
+    "nickname": "Ghost",
+    "steam_id": 206642367,
+    "team": "GamerLegion",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "GamerLegion"
+  },
+  {
+    "nickname": "RCY",
+    "steam_id": 154974246,
+    "team": "GamerLegion",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "GamerLegion"
+  },
+  {
+    "nickname": "Fayde",
+    "steam_id": 160119017,
+    "team": "GamerLegion",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "GamerLegion"
+  },
+  {
+    "nickname": "Bignum",
+    "steam_id": 90423751,
+    "team": "GamerLegion",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "GamerLegion"
+  },
+  {
+    "nickname": "Speeed",
+    "steam_id": 191362875,
+    "team": "GamerLegion",
+    "position": 5,
+    "role": "support",
+    "_resolved_team": "GamerLegion"
+  },
+  {
+    "nickname": "Yuma",
+    "steam_id": 177203952,
+    "team": "LGD Gaming",
+    "position": 1,
+    "role": "core",
+    "_resolved_team": "LGD Gaming"
+  },
+  {
+    "nickname": "TaiLung",
+    "steam_id": 1026694469,
+    "team": "LGD Gaming",
+    "position": 2,
+    "role": "mid",
+    "_resolved_team": "LGD Gaming"
+  },
+  {
+    "nickname": "Wisper",
+    "steam_id": 292921272,
+    "team": "LGD Gaming",
+    "position": 3,
+    "role": "core",
+    "_resolved_team": "LGD Gaming"
+  },
+  {
+    "nickname": "Thiolicor",
+    "steam_id": 105045291,
+    "team": "LGD Gaming",
+    "position": 4,
+    "role": "support",
+    "_resolved_team": "LGD Gaming"
+  },
+  {
+    "nickname": "KJ",
+    "steam_id": 81306398,
+    "team": "LGD Gaming",
+    "position": 5,
+    "role": "support"
+  }
+]

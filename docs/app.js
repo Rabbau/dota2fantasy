@@ -1,6 +1,8 @@
 // Фэнтези-калькулятор Dota 2 TI 2026.
-// Читает data/formulas.json (правила) и data/players_stat.json (статистика из
-// parser/fetch_stats.py). Сборки нет — чистый ES-модульный скрипт.
+// Читает window.TI_DATA (правила + статистика из parser/fetch_stats.py),
+// вшитый в data.js — без fetch, чтобы работать и через file://, и на GitHub
+// Pages из папки docs/. Сборки нет — чистый скрипт, data.js собирает
+// parser/build_docs_data.py.
 
 const COLOR_LABEL = { red: "Красная", blue: "Синяя", green: "Зелёная" };
 const QUALITIES = ["I", "II", "III", "IV", "V"];
@@ -18,12 +20,10 @@ const state = {
 };
 
 // ---------- загрузка ----------
-async function boot() {
-  const [formulas, statFile] = await Promise.all([
-    fetch("../data/formulas.json").then((r) => r.json()),
-    fetch("../data/players_stat.json").then((r) => r.json()).catch(() => null),
-  ]);
-  state.formulas = formulas;
+function boot() {
+  const data = window.TI_DATA || {};
+  state.formulas = data.formulas;
+  const statFile = data.playersStat || null;
 
   if (Array.isArray(statFile)) {
     state.players = statFile; // старый формат — на всякий случай

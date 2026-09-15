@@ -23,6 +23,8 @@ from pathlib import Path
 
 import requests
 
+from build_docs_data import build as build_docs_data
+
 try:
     from dotenv import load_dotenv
     load_dotenv(Path(__file__).resolve().parent.parent / ".env")
@@ -177,6 +179,9 @@ def main() -> int:
     out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     covered = sum(1 for r in result if r["stats"])
     print(f"\nГотово -> {out_path}  ({covered}/{len(result)} игроков со статой)")
+
+    docs_path = build_docs_data()
+    print(f"Обновлён {docs_path} — страница подхватит статы без сервера")
     return 0
 
 
